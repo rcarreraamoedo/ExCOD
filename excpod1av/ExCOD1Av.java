@@ -18,6 +18,7 @@ public class ExCOD1Av {
         System.out.println("Prueba el commit B");
         System.out.println("Prueba el commit C, con nueva Rama llamado exp");
         System.out.println("Prueba el commit D, con la misma Rama exp");
+        System.out.println("F en el chat");
     }
     
 }
